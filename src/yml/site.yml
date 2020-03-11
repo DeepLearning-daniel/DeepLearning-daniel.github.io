@@ -1,21 +1,15 @@
-name: Diego
-title: Coflow
-description: Diegofornalha
+name: Korea WTM Scholars Blog
+title: Korea WTM Scholars | 한국 WTM 장학생 블로그
+description:
+  - 우먼테크메이커스(Women Techmakers) 장학생들이 자율적으로 운영하는 블로그입니다.
 tags:
   - blog
-  - template
+  - womentechmakers
+  - 우먼 테크메이커스
+  - 장학생
+  - wtm
   - jekyll
-  - theme
-  - netlify
-show_hero: true
-menu:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
 email: youremail@xyz.com
 disqus_username: disqus_username
+show_hero: true
+paginate: 12
